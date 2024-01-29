@@ -42,12 +42,14 @@ h1 {
 }
 .button1 {
   color: red;
+  padding: 5px;
   background: blue;
   margin-bottom: 3em;
   border: 2px solid white;
 }
 .button2 {
   color: blue;
+  padding: 5px;
   background-color: red;
   border: 2px solid white;
 }

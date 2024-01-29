@@ -11,7 +11,7 @@ function App() {
       </div>
       <div className="container">
         <div className="imageDiv">
-          <ImageComponent src="logo512.png" alt="reactLogo" />
+          <ImageComponent stile="App-logo" src="logo512.png" alt="reactLogo" />
           <ImageComponent
             src="https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?cs=srgb&dl=pexels-mike-bird-170811.jpg&fm=jpg"
             alt="car1"
